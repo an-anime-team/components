@@ -1,0 +1,170 @@
+[
+    {
+        "name": "GE-Proton7-30",
+        "title": "GE-Proton 7-30",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-30/GE-Proton7-30.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": true
+    },
+    {
+        "name": "GE-Proton7-29",
+        "title": "GE-Proton 7-29",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-29/GE-Proton7-29.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": true
+    },
+    {
+        "name": "GE-Proton7-28",
+        "title": "GE-Proton 7-28",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-28/GE-Proton7-28.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": true
+    },
+    {
+        "name": "GE-Proton7-27",
+        "title": "GE-Proton 7-27",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-27/GE-Proton7-27.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": true
+    },
+    {
+        "name": "GE-Proton7-26",
+        "title": "GE-Proton 7-26",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-26/GE-Proton7-26.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": true
+    },
+    {
+        "name": "GE-Proton7-24",
+        "title": "GE-Proton 7-24",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-24/GE-Proton7-24.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": true
+    },
+    {
+        "name": "GE-Proton7-20",
+        "title": "GE-Proton 7-20",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-20/GE-Proton7-20.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": false
+    },
+    {
+        "name": "GE-Proton7-19",
+        "title": "GE-Proton 7-19",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-19/GE-Proton7-19.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": false
+    },
+    {
+        "name": "GE-Proton7-18",
+        "title": "GE-Proton 7-18",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-18/GE-Proton7-18.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": false
+    },
+    {
+        "name": "GE-Proton7-17",
+        "title": "GE-Proton 7-17",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-17/GE-Proton7-17.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": false
+    },
+    {
+        "name": "GE-Proton7-16",
+        "title": "GE-Proton 7-16",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-16/GE-Proton7-16.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": false
+    },
+    {
+        "name": "GE-Proton7-15",
+        "title": "GE-Proton 7-15",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-15/GE-Proton7-15.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": false
+    },
+    {
+        "name": "GE-Proton7-13",
+        "title": "GE-Proton 7-13",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-13/GE-Proton7-13.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": false
+    },
+    {
+        "name": "GE-Proton7-10",
+        "title": "GE-Proton 7-10",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-10/GE-Proton7-10.tar.gz",
+        "files": {
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "wineboot": "files/bin/wineboot",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": false
+    }
+]
