@@ -1,5 +1,18 @@
 [
     {
+        "name": "wine-7.17-staging-amd64",
+        "title": "Wine-Staging 7.17",
+        "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/7.17/wine-7.17-staging-amd64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot",
+            "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": true
+    },
+    {
         "name": "wine-7.16-staging-amd64",
         "title": "Wine-Staging 7.16",
         "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/7.16/wine-7.16-staging-amd64.tar.xz",
@@ -75,7 +88,7 @@
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
         },
-        "recommended": true
+        "recommended": false
     },
     {
         "name": "wine-7.10-staging-amd64",
