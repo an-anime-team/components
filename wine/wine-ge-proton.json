@@ -1,5 +1,18 @@
 [
     {
+        "name": "lutris-GE-Proton7-31-x86_64",
+        "title": "Wine-GE-Proton 7-31",
+        "uri": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton7-31/wine-lutris-GE-Proton7-31-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot",
+            "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": true
+    },
+    {
         "name": "lutris-GE-Proton7-29-x86_64",
         "title": "Wine-GE-Proton 7-29",
         "uri": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton7-29/wine-lutris-GE-Proton7-29-x86_64.tar.xz",
@@ -75,7 +88,7 @@
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
         },
-        "recommended": true
+        "recommended": false
     },
     {
         "name": "lutris-GE-Proton7-23-x86_64",
