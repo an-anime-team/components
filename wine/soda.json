@@ -1,5 +1,31 @@
 [
     {
+        "name": "soda-7.0-6-x86_64",
+        "title": "Soda 7.0-6",
+        "uri": "https://github.com/bottlesdevs/wine/releases/download/soda-7.0-6/soda-7.0-6-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot",
+            "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": true
+    },
+    {
+        "name": "soda-7.0-5-x86_64",
+        "title": "Soda 7.0-5",
+        "uri": "https://github.com/bottlesdevs/wine/releases/download/soda-7.0-5/soda-7.0-5-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot",
+            "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
+        },
+        "recommended": true
+    },
+    {
         "name": "soda-7.0-4-x86_64",
         "title": "Soda 7.0-4",
         "uri": "https://github.com/bottlesdevs/wine/releases/download/soda-7.0-4/soda-7.0-4-x86_64.tar.xz",
@@ -62,6 +88,6 @@
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
         },
-        "recommended": true
+        "recommended": false
     }
 ]
