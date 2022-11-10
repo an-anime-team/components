@@ -1,5 +1,11 @@
 [
     {
+        "name": "dxvk-2.0",
+        "version": "2.0",
+        "uri": "https://github.com/doitsujin/dxvk/releases/download/v2.0/dxvk-2.0.tar.gz",
+        "recommended": true
+    },
+    {
         "name": "dxvk-1.10.3",
         "version": "1.10.3",
         "uri": "https://github.com/doitsujin/dxvk/releases/download/v1.10.3/dxvk-1.10.3.tar.gz",
