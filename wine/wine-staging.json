@@ -1,6 +1,6 @@
 [
     {
-        "name": "wine-8.0-rc2-amd64",
+        "name": "wine-8.0-rc2-staging-amd64",
         "title": "Wine-Staging 8.0",
         "uri": "https://github.com/Kron4ek/Wine-Builds/releases/download/8.0-rc2/wine-8.0-rc2-staging-amd64.tar.xz",
         "files": {
