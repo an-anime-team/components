@@ -4,7 +4,7 @@
         "title": "GE-Proton 7-49",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-49/GE-Proton7-49.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -17,7 +17,7 @@
         "title": "GE-Proton 7-48",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-48/GE-Proton7-48.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -30,7 +30,7 @@
         "title": "GE-Proton 7-47",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-47/GE-Proton7-47.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -43,7 +43,7 @@
         "title": "GE-Proton 7-43",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-43/GE-Proton7-43.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -56,7 +56,7 @@
         "title": "GE-Proton 7-42",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-42/GE-Proton7-42.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -69,7 +69,7 @@
         "title": "GE-Proton 7-41",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-41/GE-Proton7-41.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -82,7 +82,7 @@
         "title": "GE-Proton 7-38",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-38/GE-Proton7-38.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -95,7 +95,7 @@
         "title": "GE-Proton 7-37",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-37/GE-Proton7-37.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -108,7 +108,7 @@
         "title": "GE-Proton 7-35",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-35/GE-Proton7-35.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -121,7 +121,7 @@
         "title": "GE-Proton 7-33",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-33/GE-Proton7-33.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -134,7 +134,7 @@
         "title": "GE-Proton 7-31",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-31/GE-Proton7-31.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -147,7 +147,7 @@
         "title": "GE-Proton 7-30",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-30/GE-Proton7-30.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -160,7 +160,7 @@
         "title": "GE-Proton 7-29",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-29/GE-Proton7-29.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -173,7 +173,7 @@
         "title": "GE-Proton 7-28",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-28/GE-Proton7-28.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -186,7 +186,7 @@
         "title": "GE-Proton 7-27",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-27/GE-Proton7-27.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
@@ -199,7 +199,7 @@
         "title": "GE-Proton 7-26",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-26/GE-Proton7-26.tar.gz",
         "files": {
-            "wine": "bin/wine",
+            "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
