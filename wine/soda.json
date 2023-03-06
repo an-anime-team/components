@@ -9,8 +9,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "soda-7.0-8-x86_64",
@@ -22,8 +21,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "soda-7.0-7-x86_64",
@@ -35,8 +33,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "soda-7.0-6-x86_64",
@@ -48,8 +45,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "soda-7.0-5-x86_64",
@@ -61,8 +57,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "soda-7.0-4-x86_64",
@@ -74,8 +69,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "soda-7.0-3-x86_64",
@@ -87,8 +81,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "soda-7.0-2-x86_64",
@@ -100,8 +93,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "soda-7.0-1-x86_64",
@@ -113,8 +105,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "soda-7.0-x86_64",
@@ -126,7 +117,6 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     }
 ]

@@ -9,8 +9,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-7.2-x86_64",
@@ -22,8 +21,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-7.1-x86_64",
@@ -35,8 +33,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-6.21-6-x86_64",
@@ -48,8 +45,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-6.21-5-x86_64",
@@ -61,8 +57,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-6.21-4-x86_64",
@@ -74,8 +69,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-6.21-3-x86_64",
@@ -87,8 +81,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-6.21-2-x86_64",
@@ -100,8 +93,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-6.21-x86_64",
@@ -113,8 +105,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-6.14-4-x86_64",
@@ -126,8 +117,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-6.14-3-x86_64",
@@ -139,8 +129,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-6.14-2-x86_64",
@@ -152,8 +141,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-6.14-x86_64",
@@ -165,7 +153,6 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     }
 ]

@@ -9,8 +9,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "GE-Proton7-48",
@@ -22,8 +21,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "GE-Proton7-47",
@@ -35,8 +33,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "GE-Proton7-43",
@@ -48,8 +45,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "GE-Proton7-42",
@@ -61,8 +57,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "GE-Proton7-41",
@@ -74,8 +69,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "GE-Proton7-38",
@@ -87,8 +81,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "GE-Proton7-37",
@@ -100,8 +93,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "GE-Proton7-35",
@@ -113,8 +105,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "GE-Proton7-33",
@@ -126,8 +117,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "GE-Proton7-31",
@@ -139,8 +129,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "GE-Proton7-30",
@@ -152,8 +141,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "GE-Proton7-29",
@@ -165,8 +153,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "GE-Proton7-28",
@@ -178,8 +165,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "GE-Proton7-27",
@@ -191,8 +177,7 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "GE-Proton7-26",
@@ -204,7 +189,6 @@
             "wineserver": "files/bin/wineserver",
             "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     }
 ]

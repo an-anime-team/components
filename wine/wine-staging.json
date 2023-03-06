@@ -9,8 +9,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "wine-7.22-staging-amd64",
@@ -22,8 +21,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "wine-7.21-staging-amd64",
@@ -35,8 +33,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "wine-7.20-staging-amd64",
@@ -48,8 +45,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "wine-7.19-staging-amd64",
@@ -61,8 +57,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "wine-7.18-staging-amd64",
@@ -74,8 +69,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "wine-7.17-staging-amd64",
@@ -87,8 +81,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "wine-7.16-staging-amd64",
@@ -100,8 +93,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "wine-7.15-staging-amd64",
@@ -113,8 +105,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "wine-7.14-staging-amd64",
@@ -126,8 +117,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "wine-7.13-staging-amd64",
@@ -139,8 +129,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "wine-7.12-staging-amd64",
@@ -152,8 +141,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "wine-7.11-staging-amd64",
@@ -165,8 +153,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "wine-7.10-staging-amd64",
@@ -178,8 +165,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "wine-7.9-staging-amd64",
@@ -191,8 +177,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "wine-7.8-staging-amd64",
@@ -204,8 +189,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "wine-7.7-staging-amd64",
@@ -217,7 +201,6 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     }
 ]

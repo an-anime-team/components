@@ -9,8 +9,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-GE-Proton7-36-x86_64",
@@ -22,8 +21,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-GE-Proton7-35-x86_64",
@@ -35,8 +33,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-GE-Proton7-34-x86_64",
@@ -48,8 +45,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-GE-Proton7-33-x86_64",
@@ -61,8 +57,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-GE-Proton7-31-x86_64",
@@ -74,8 +69,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": true
+        }
     },
     {
         "name": "lutris-GE-Proton7-29-x86_64",
@@ -87,8 +81,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-GE-Proton7-28-x86_64",
@@ -100,8 +93,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-GE-Proton7-27-x86_64",
@@ -113,8 +105,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-GE-Proton7-26-x86_64",
@@ -126,8 +117,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-GE-Proton7-25-x86_64",
@@ -139,8 +129,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-GE-Proton7-24-x86_64",
@@ -152,8 +141,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-GE-Proton7-23-x86_64",
@@ -165,8 +153,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-GE-Proton7-22-x86_64",
@@ -178,8 +165,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-GE-Proton7-20-x86_64",
@@ -191,8 +177,7 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     },
     {
         "name": "lutris-GE-Proton7-18-x86_64",
@@ -204,7 +189,6 @@
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot",
             "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
-        },
-        "recommended": false
+        }
     }
 ]
