@@ -7,7 +7,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -19,7 +18,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -31,7 +29,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -43,7 +40,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -55,7 +51,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -67,7 +62,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -79,7 +73,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -91,7 +84,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -103,7 +95,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -115,7 +106,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -127,7 +117,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -139,7 +128,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -151,7 +139,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -163,7 +150,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -175,7 +161,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     },
@@ -187,7 +172,6 @@
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
             "wineserver": "files/bin/wineserver",
-            "wineboot": "files/bin/wineboot",
             "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
         }
     }
