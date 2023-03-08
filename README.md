@@ -26,7 +26,8 @@ type Wine = {
     name: string,
     title: string,
     ?features: {
-        ?no_dxvk: boolean,
+        ?need_dxvk: boolean,
+        ?command: string,
         ?env: {
             [id: string]: string
         }
@@ -46,6 +47,16 @@ type Dxvk = {
 }
 ```
 
+All string fields here (`command` and `env` values) accept these keywords:
+
+| Keyword | Description |
+| - | - |
+| `%build%` | path to wine build |
+| `%prefix%` | path to wine prefix |
+| `%temp%` | path to temp folder specified in config file |
+| `%launcher%` | path to launcher folder |
+| `%game%` | path to the game |
+
 #### Components index (example):
 
 ```json
@@ -64,6 +75,7 @@ type Dxvk = {
             "name": "wine-ge-proton",
             "title": "Wine-GE-Proton",
             "features": {
+                "command": "'%build%/custom_script'",
                 "no_dxvk": true
             }
         }
@@ -100,6 +112,13 @@ type Dxvk = {
             ?wineserver: string,
             ?wineboot: string,
             ?winecfg: string
+        },
+        ?features: {
+            ?need_dxvk: boolean,
+            ?command: string,
+            ?env: {
+                [id: string]: string
+            }
         }
     }
 ]
@@ -122,17 +141,19 @@ type Dxvk = {
         }
     },
     {
-        "name": "lutris-GE-Proton7-36-x86_64",
-        "title": "Wine-GE-Proton 7-36",
-        "uri": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton7-36/wine-lutris-GE-Proton7-36-x86_64.tar.xz",
+        "name": "GE-Proton7-49",
+        "title": "GE-Proton 7-49",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-49/GE-Proton7-49.tar.gz",
         "files": {
-            "wine": "bin/wine",
-            "wine64": "bin/wine64",
-            "wineserver": "bin/wineserver",
-            "wineboot": "bin/wineboot",
-            "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        },
+        "features": {
+            "need_dxvk": false
         }
-    }
+    
 ]
 ```
 
@@ -143,7 +164,12 @@ type Dxvk = {
     {
         name: string,
         title: string,
-        uri: string
+        uri: string,
+        ?features: {
+            ?env: {
+                [id: string]: string
+            }
+        }
     }
 ]
 ```
@@ -158,9 +184,14 @@ type Dxvk = {
         "uri": "https://github.com/doitsujin/dxvk/releases/download/v2.1/dxvk-2.1.tar.gz"
     },
     {
-        "name": "dxvk-2.0",
-        "version": "2.0",
-        "uri": "https://github.com/doitsujin/dxvk/releases/download/v2.0/dxvk-2.0.tar.gz"
+        "name": "dxvk-async-2.0",
+        "version": "2.0-async",
+        "uri": "https://github.com/Sporif/dxvk-async/releases/download/2.0/dxvk-async-2.0.tar.gz",
+        "features": {
+            "env": {
+                "DXVK_ASYNC": 1
+            }
+        }
     }
 ]
 ```
