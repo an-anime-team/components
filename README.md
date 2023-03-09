@@ -27,6 +27,7 @@ type Wine = {
     title: string,
     ?features: {
         ?need_dxvk: boolean,
+        ?compact_launch: boolean,
         ?command: string,
         ?env: {
             [id: string]: string
@@ -47,6 +48,15 @@ type Dxvk = {
 }
 ```
 
+Features description:
+
+| Feature | Type | Default | Description |
+| - | - | - | - |
+| `need_dxvk` | bool | `true` | If `false`, then launcher's DXVK selection section will be disabled entirely |
+| `compact_launch` | bool | `false` | If `true`, then windows part used to launch the game will be saved in `compact_launch.bat` file. This helps a lot if used `command` feature can't process launch arguments (GE-Proton) |
+| `command` | string | - | Command that should be used instead of path to the wine binary (e.g. when you have special launch script like in GE-Proton). Accept keywords |
+| `env` | map | - | Map of environment variables. Accept keywords |
+
 All string fields here (`command` and `env` values) accept these keywords:
 
 | Keyword | Description |
@@ -66,6 +76,7 @@ All string fields here (`command` and `env` values) accept these keywords:
             "name": "wine-ge-proton",
             "title": "Wine-GE-Proton",
             "features": {
+                "compact_launch": true,
                 "env": {
                     "WINEDEBUG": "+all"
                 }
