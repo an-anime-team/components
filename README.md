@@ -142,7 +142,7 @@ All string fields here (`command` and `env` values) accept these keywords:
 
 #### Wine (example):
 
-```ts
+```json
 [
     {
         "name": "lutris-GE-Proton7-37-x86_64",
@@ -181,6 +181,7 @@ All string fields here (`command` and `env` values) accept these keywords:
     {
         name: string,
         title: string,
+        version: string,
         uri: string,
         ?features: {
             ?env: {
@@ -193,15 +194,17 @@ All string fields here (`command` and `env` values) accept these keywords:
 
 #### Dxvk (example):
 
-```ts
+```json
 [
     {
         "name": "dxvk-2.1",
+        "title": "2.1",
         "version": "2.1",
         "uri": "https://github.com/doitsujin/dxvk/releases/download/v2.1/dxvk-2.1.tar.gz"
     },
     {
         "name": "dxvk-async-2.0",
+        "title": "2.0-async",
         "version": "2.0-async",
         "uri": "https://github.com/Sporif/dxvk-async/releases/download/2.0/dxvk-async-2.0.tar.gz",
         "features": {
