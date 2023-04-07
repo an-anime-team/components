@@ -32,7 +32,8 @@ type Wine = {
         ?command: string,
         ?env: {
             [id: string]: string
-        }
+        },
+        ?recommended: boolean
     }
 }
 ```
@@ -44,7 +45,8 @@ type Dxvk = {
     ?features: {
         ?env: {
             [id: string]: string
-        }
+        },
+        ?recommended: boolean
     }
 }
 ```
@@ -58,6 +60,7 @@ Features description:
 | `compact_launch` | bool | `false` | If `true`, then windows part used to launch the game will be saved in `compact_launch.bat` file. This helps a lot if used `command` feature can't process launch arguments (GE-Proton) |
 | `command` | string | - | Command that should be used instead of path to the wine binary (e.g. when you have special launch script like in GE-Proton). Accept keywords |
 | `env` | map | - | Map of environment variables. Accept keywords |
+| `recommended` | boolean | `true` | If `false`, then component group / version will be marked as not recommended |
 
 All string fields here (`command` and `env` values) accept these keywords:
 
@@ -134,7 +137,8 @@ All string fields here (`command` and `env` values) accept these keywords:
             ?command: string,
             ?env: {
                 [id: string]: string
-            }
+            },
+            ?recommended: boolean
         }
     }
 ]
@@ -186,7 +190,8 @@ All string fields here (`command` and `env` values) accept these keywords:
         ?features: {
             ?env: {
                 [id: string]: string
-            }
+            },
+            ?recommended: boolean
         }
     }
 ]
