@@ -174,7 +174,7 @@ All string fields here (`command` and `env` values) accept these keywords:
             "need_dxvk": false,
             "bundle": "Proton"
         }
-    
+    }
 ]
 ```
 

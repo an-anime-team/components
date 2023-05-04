@@ -41,6 +41,15 @@
                     "DXVK_ASYNC": 1
                 }
             }
+        },
+        {
+            "name": "gplasync",
+            "title": "Gplasync",
+            "features": {
+                "env": {
+                    "DXVK_ASYNC": 1
+                }
+            }
         }
     ]
 }
