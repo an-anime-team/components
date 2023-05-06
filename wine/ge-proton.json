@@ -1,5 +1,16 @@
 [
     {
+        "name": "GE-Proton8-2",
+        "title": "GE-Proton 8-2",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-2/GE-Proton8-2.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver",
+            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+        }
+    },
+    {
         "name": "GE-Proton7-55",
         "title": "GE-Proton 7-55",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-55/GE-Proton7-55.tar.gz",
