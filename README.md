@@ -123,12 +123,12 @@ All string fields here (`command` and `env` values) accept these keywords:
         name: string,
         title: string,
         uri: string,
+        ?format: string | null,
         files: {
             wine: string,
             ?wine64: string,
             ?wineserver: string,
-            ?wineboot: string,
-            ?winecfg: string
+            ?wineboot: string
         },
         ?features: {
             ?bundle: "Proton" | null,
@@ -156,19 +156,18 @@ All string fields here (`command` and `env` values) accept these keywords:
             "wine": "bin/wine",
             "wine64": "bin/wine64",
             "wineserver": "bin/wineserver",
-            "wineboot": "bin/wineboot",
-            "winecfg": "lib64/wine/x86_64-windows/winecfg.exe"
+            "wineboot": "bin/wineboot"
         }
     },
     {
         "name": "GE-Proton7-49",
         "title": "GE-Proton 7-49",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton7-49/GE-Proton7-49.tar.gz",
+        "format": "tar.gz",
         "files": {
             "wine": "files/bin/wine",
             "wine64": "files/bin/wine64",
-            "wineserver": "files/bin/wineserver",
-            "winecfg": "files/lib64/wine/x86_64-windows/winecfg.exe"
+            "wineserver": "files/bin/wineserver"
         },
         "features": {
             "need_dxvk": false,
@@ -187,6 +186,7 @@ All string fields here (`command` and `env` values) accept these keywords:
         title: string,
         version: string,
         uri: string,
+        ?format: string | null,
         ?features: {
             ?env: {
                 [id: string]: string
@@ -212,6 +212,7 @@ All string fields here (`command` and `env` values) accept these keywords:
         "title": "2.0-async",
         "version": "2.0-async",
         "uri": "https://github.com/Sporif/dxvk-async/releases/download/2.0/dxvk-async-2.0.tar.gz",
+        "format": "tar.gz",
         "features": {
             "env": {
                 "DXVK_ASYNC": 1
