@@ -1,5 +1,16 @@
 [
     {
+        "name": "lutris-GE-Proton8-11-x86_64",
+        "title": "Wine-GE-Proton 8-11",
+        "uri": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-11/wine-lutris-GE-Proton8-11-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
         "name": "lutris-GE-Proton8-10-x86_64",
         "title": "Wine-GE-Proton 8-10",
         "uri": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-10/wine-lutris-GE-Proton8-10-x86_64.tar.xz",
