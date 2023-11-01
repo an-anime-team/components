@@ -1,5 +1,49 @@
 [
     {
+        "name": "lutris-GE-Proton8-22-x86_64",
+        "title": "Wine-GE-Proton 8-22",
+        "uri": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-22/wine-lutris-GE-Proton8-2-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "lutris-GE-Proton8-21-x86_64",
+        "title": "Wine-GE-Proton 8-21",
+        "uri": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-21/wine-lutris-GE-Proton8-21-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "lutris-GE-Proton8-20-x86_64",
+        "title": "Wine-GE-Proton 8-20",
+        "uri": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-20/wine-lutris-GE-Proton8-20-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
+        "name": "lutris-GE-Proton8-18-x86_64",
+        "title": "Wine-GE-Proton 8-18",
+        "uri": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-18/wine-lutris-GE-Proton8-18-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
         "name": "lutris-GE-Proton8-17-x86_64",
         "title": "Wine-GE-Proton 8-17",
         "uri": "https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-17/wine-lutris-GE-Proton8-17-x86_64.tar.xz",
