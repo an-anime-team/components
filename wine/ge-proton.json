@@ -1,5 +1,85 @@
 [
     {
+        "name": "GE-Proton9-1",
+        "title": "GE-Proton 9-1",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-1/GE-Proton9-1.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
+        "name": "GE-Proton8-32",
+        "title": "GE-Proton 8-32",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-32/GE-Proton8-32.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
+        "name": "GE-Proton8-31",
+        "title": "GE-Proton 8-31",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-31/GE-Proton8-31.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
+        "name": "GE-Proton8-30",
+        "title": "GE-Proton 8-30",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-30/GE-Proton8-30.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
+        "name": "GE-Proton8-29",
+        "title": "GE-Proton 8-29",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-29/GE-Proton8-29.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
+        "name": "GE-Proton8-28",
+        "title": "GE-Proton 8-28",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-28/GE-Proton8-28.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
+        "name": "GE-Proton8-27",
+        "title": "GE-Proton 8-27",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-27/GE-Proton8-27.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
+        "name": "GE-Proton8-26",
+        "title": "GE-Proton 8-26",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-26/GE-Proton8-26.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
         "name": "GE-Proton8-25",
         "title": "GE-Proton 8-25",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton8-25/GE-Proton8-25.tar.gz",
