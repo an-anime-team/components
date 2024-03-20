@@ -1,5 +1,16 @@
 [
     {
+        "name": "soda-8.0-2-x86_64",
+        "title": "Soda 8.0-2",
+        "uri": "https://github.com/bottlesdevs/wine/releases/download/soda-8.0-2/soda-8.0-2-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
         "name": "soda-7.0-9-x86_64",
         "title": "Soda 7.0-9",
         "uri": "https://github.com/bottlesdevs/wine/releases/download/soda-7.0-9/soda-7.0-9-x86_64.tar.xz",
