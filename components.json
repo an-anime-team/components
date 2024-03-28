@@ -1,6 +1,10 @@
 {
     "wine": [
         {
+            "name": "wine-staging-tkg",
+            "title": "Wine-Staging-TkG"
+        },
+        {
             "name": "wine-ge-proton",
             "title": "Wine-GE-Proton"
         },
@@ -34,8 +38,8 @@
             "title": "Vanilla"
         },
         {
-            "name": "async",
-            "title": "Async",
+            "name": "gplasync",
+            "title": "Gplasync",
             "features": {
                 "env": {
                     "DXVK_ASYNC": 1
@@ -43,8 +47,8 @@
             }
         },
         {
-            "name": "gplasync",
-            "title": "Gplasync",
+            "name": "async",
+            "title": "Async",
             "features": {
                 "env": {
                     "DXVK_ASYNC": 1
