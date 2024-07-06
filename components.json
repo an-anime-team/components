@@ -9,6 +9,10 @@
             "title": "Wine-GE-Proton"
         },
         {
+            "name": "soda",
+            "title": "Soda"
+        },
+        {
             "name": "ge-proton",
             "title": "GE-Proton",
             "features": {
@@ -22,10 +26,6 @@
                     "SteamAppId": 0
                 }
             }
-        },
-        {
-            "name": "soda",
-            "title": "Soda"
         },
         {
             "name": "lutris",
