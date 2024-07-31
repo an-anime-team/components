@@ -8,6 +8,9 @@
             "wine64": "bin/wine64",
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot"
+        },
+        "features": {
+            "recommended": false
         }
     },
     {
