@@ -1,5 +1,11 @@
 [
     {
+        "name": "dxvk-gplasync-v2.4.1-1",
+        "title": "2.4.1-1",
+        "version": "2.4.1-1-gplasync",
+        "uri": "https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.4.1-1.tar.gz"
+    },
+    {
         "name": "dxvk-gplasync-v2.4-1",
         "title": "2.4-1",
         "version": "2.4-1-gplasync",
