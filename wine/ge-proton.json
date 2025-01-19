@@ -1,5 +1,35 @@
 [
     {
+        "name": "GE-Proton9-23",
+        "title": "GE-Proton 9-23",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-23/GE-Proton9-23.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
+        "name": "GE-Proton9-22",
+        "title": "GE-Proton 9-22",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-22/GE-Proton9-22.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
+        "name": "GE-Proton9-21",
+        "title": "GE-Proton 9-21",
+        "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-21/GE-Proton9-21.tar.gz",
+        "files": {
+            "wine": "files/bin/wine",
+            "wine64": "files/bin/wine64",
+            "wineserver": "files/bin/wineserver"
+        }
+    },
+    {
         "name": "GE-Proton9-20",
         "title": "GE-Proton 9-20",
         "uri": "https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-20/GE-Proton9-20.tar.gz",
