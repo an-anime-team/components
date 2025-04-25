@@ -1,0 +1,13 @@
+[
+    {
+        "name": "spritz-wine-tkg-10.6",
+        "title": "Spritz-Wine-TkG 10.6-1",
+        "uri": "https://github.com/NelloKudo/WineBuilder/releases/download/spritz-v10.6-1/spritz-wine-tkg-fonts-wow64-10.6-1-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    }
+]
