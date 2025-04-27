@@ -1,11 +1,11 @@
 [
     {
-        "name": "spritz-wine-aagl-tkg-10.6",
+        "name": "wine-spritz-10.6-staging-tkg-aagl-amd64-wow64",
         "title": "Spritz-Wine-AAGL-TkG 10.6-1",
-        "uri": "https://github.com/NelloKudo/WineBuilder/releases/download/aagl-spritz-v10.6-1/spritz-wine-aagl-tkg-fonts-wow64-10.6-1-x86_64.tar.xz",
+        "uri": "https://github.com/NelloKudo/Wine-Builds/releases/download/wine-tkg-aagl-v10.6-1/wine-spritz-10.6-staging-tkg-aagl-amd64-wow64.tar.xz",
         "files": {
             "wine": "bin/wine",
-            "wine64": "bin/wine64",
+            "wine64": "bin/wine",
             "wineserver": "bin/wineserver",
             "wineboot": "bin/wineboot"
         }
