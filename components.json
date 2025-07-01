@@ -1,16 +1,16 @@
 {
     "wine": [
         {
+            "name": "spritz-wine-tkg",
+            "title": "Spritz-Wine-TkG"
+        },
+        {
             "name": "wine-staging-tkg",
             "title": "Wine-Staging-TkG"
         },
         {
             "name": "wine-ge-proton",
             "title": "Wine-GE-Proton"
-        },
-        {
-            "name": "spritz-wine-tkg",
-            "title": "Spritz-Wine-TkG"
         },
         {
             "name": "soda",
