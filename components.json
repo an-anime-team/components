@@ -17,21 +17,6 @@
             "title": "Soda"
         },
         {
-            "name": "ge-proton",
-            "title": "GE-Proton",
-            "features": {
-                "bundle": "Proton",
-                "need_dxvk": false,
-                "compact_launch": true,
-                "command": "python3 '%build%/proton' waitforexitandrun",
-                "env": {
-                    "STEAM_COMPAT_DATA_PATH": "%prefix%",
-                    "STEAM_COMPAT_CLIENT_INSTALL_PATH": "",
-                    "SteamAppId": 0
-                }
-            }
-        },
-        {
             "name": "lutris",
             "title": "Lutris"
         }
