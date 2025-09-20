@@ -1,5 +1,16 @@
 [
     {
+        "name": "wine-spritz-10.15-3-tkg-aagl-amd64-wow64",
+        "title": "Spritz-Wine-TkG 10.15-3",
+        "uri": "https://github.com/NelloKudo/Wine-Builds/releases/download/wine-tkg-aagl-v10.15-3/wine-spritz-10.15-3-tkg-aagl-amd64-wow64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
         "name": "wine-spritz-10.15-2-tkg-aagl-amd64-wow64",
         "title": "Spritz-Wine-TkG 10.15-2",
         "uri": "https://github.com/NelloKudo/Wine-Builds/releases/download/wine-tkg-aagl-v10.15-2/wine-spritz-10.15-2-tkg-aagl-amd64-wow64.tar.xz",
