@@ -5,6 +5,10 @@
             "title": "Spritz-Wine-TkG"
         },
         {
+            "name": "spritz-wine-cachyos",
+            "title": "Spritz-Wine-CachyOS"
+        },
+        {
             "name": "wine-staging-tkg",
             "title": "Wine-Staging-TkG"
         },
