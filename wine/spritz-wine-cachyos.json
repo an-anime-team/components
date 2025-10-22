@@ -1,5 +1,16 @@
 [
     {
+        "name": "spritz-wine-cachyos-wow64-10.0-3",
+        "title": "Spritz-CachyOS 10.0-3",
+        "uri": "https://github.com/NelloKudo/Wine-Builds/releases/download/wine-cachyos-aagl-v10.0-3/spritz-wine-cachyos-wow64-10.0-3-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
         "name": "spritz-wine-cachyos-wow64-10.0-1",
         "title": "Spritz-CachyOS 10.0-1",
         "uri": "https://github.com/NelloKudo/Wine-Builds/releases/download/wine-cachyos-aagl-v10.0-1/spritz-wine-cachyos-wow64-10.0-1-x86_64.tar.xz",
