@@ -1,5 +1,16 @@
 [
     {
+        "name": "spritz-wine-tkg-staging-wow64-10.15-7",
+        "title": "Spritz-Wine-TkG 10.15-7",
+        "uri": "https://github.com/NelloKudo/Wine-Builds/releases/download/wine-tkg-aagl-v10.15-7/spritz-wine-tkg-staging-wow64-10.15-7-x86_64.tar.xz",
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+    {
         "name": "spritz-wine-tkg-staging-wow64-10.15-6",
         "title": "Spritz-Wine-TkG 10.15-6",
         "uri": "https://github.com/NelloKudo/Wine-Builds/releases/download/wine-tkg-aagl-v10.15-6/spritz-wine-tkg-staging-wow64-10.15-6-x86_64.tar.xz",
