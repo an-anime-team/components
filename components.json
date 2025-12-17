@@ -39,6 +39,10 @@
                     "DXVK_ASYNC": 1
                 }
             }
+        },
+        {
+            "name": "sarek",
+            "title": "Sarek"
         }
     ]
 }

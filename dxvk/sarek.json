@@ -1,0 +1,20 @@
+[
+    {
+        "name": "dxvk-sarek-v1.11.0",
+        "title": "1.11.0",
+        "version": "1.11.0",
+        "uri": "https://github.com/pythonlover02/DXVK-Sarek/releases/download/v1.11.0/dxvk-sarek-v1.11.0.tar.gz"
+    },
+    {
+        "name": "dxvk-sarek-v1.10.9",
+        "title": "1.10.9",
+        "version": "1.10.9",
+        "uri": "https://github.com/pythonlover02/DXVK-Sarek/releases/download/v1.10.9/dxvk-sarek-v1.10.9.tar.gz"
+    },
+    {
+        "name": "dxvk-sarek-v1.10.8",
+        "title": "1.10.8",
+        "version": "1.10.8",
+        "uri": "https://github.com/pythonlover02/DXVK-Sarek/releases/download/v1.10.8/dxvk-sarek-v1.10.8.tar.gz"
+    }
+]
