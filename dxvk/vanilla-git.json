@@ -1,8 +1,14 @@
 [
     {
+        "name": "dxvk-git-2.7.1-011706c",
+        "title": "2.7.1-011706c",
+        "version": "2.7.1-011706c",
+        "uri": "https://github.com/NelloKudo/dxvk-git-builds/releases/download/dxvk-git-2.7.1-011706c/dxvk-git-2.7.1-011706c.tar.xz"
+    },
+    {
         "name": "dxvk-git-2.7.1-1676dca",
         "title": "2.7.1-1676dca",
         "version": "2.7.1-1676dca",
-        "uri": "https://github.com/NelloKudo/dxvk/releases/download/2.7.1-1676dca/dxvk-git-2.7.1-1676dca.tar.xz"
+        "uri": "https://github.com/NelloKudo/dxvk-git-builds/releases/download/dxvk-git-2.7.1-1676dca/dxvk-git-2.7.1-1676dca.tar.xz"
     }
 ]

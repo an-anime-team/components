@@ -19,6 +19,10 @@
     ],
     "dxvk": [
         {
+            "name": "vanilla-git",
+            "title": "Vanilla Git"
+        },
+        {
             "name": "vanilla",
             "title": "Vanilla"
         },
@@ -30,10 +34,6 @@
                     "DXVK_ASYNC": 1
                 }
             }
-        },
-        {
-            "name": "vanilla-git",
-            "title": "Vanilla Git"
         },
         {
             "name": "async",
