@@ -48,5 +48,12 @@
             "name": "sarek",
             "title": "Sarek"
         }
+    ],
+    "vkd3d": [
+        {
+            "name": "proton",
+            "title": "VKD3D-Proton"
+        }
     ]
 }
+
