@@ -1,5 +1,11 @@
 [
     {
+        "name": "dxvk-git-2.7.1-eae7563",
+        "title": "2.7.1-eae7563",
+        "version": "2.7.1-eae7563",
+        "uri": "https://github.com/NelloKudo/dxvk-git-builds/releases/download/dxvk-git-2.7.1-eae7563/dxvk-git-2.7.1-eae7563.tar.xz"
+    },
+    {
         "name": "dxvk-git-2.7.1-011706c",
         "title": "2.7.1-011706c",
         "version": "2.7.1-011706c",
