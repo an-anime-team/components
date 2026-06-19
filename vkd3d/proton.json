@@ -1,0 +1,12 @@
+[
+  {
+    "name": "vkd3d-proton-2.13",
+    "title": "VKD3D-Proton 2.13",
+    "version": "2.13",
+    "uri": "https://github.com/HansKristian-Work/vkd3d-proton/releases/download/v2.13/vkd3d-proton-2.13.tar.zst",
+    "format": "tar.zst",
+    "features": {
+      "recommended": true
+    }
+  }
+]
