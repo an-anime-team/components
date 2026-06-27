@@ -23,12 +23,12 @@
     ],
     "dxvk": [
         {
-            "name": "vanilla-git",
-            "title": "Vanilla Git"
-        },
-        {
             "name": "vanilla",
             "title": "Vanilla"
+        },
+        {
+            "name": "vanilla-git",
+            "title": "Vanilla Git"
         },
         {
             "name": "gplasync",
