@@ -1,5 +1,11 @@
 [
     {
+        "name": "dxvk-3.1.1",
+        "title": "3.1.1",
+        "version": "3.1.1",
+        "uri": "https://github.com/doitsujin/dxvk/releases/download/v3.1.1/dxvk-3.1.1.tar.gz"
+    },
+    {
         "name": "dxvk-3.0",
         "title": "3.0",
         "version": "3.0",
